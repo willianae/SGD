@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/06/22 19:05:08.000.798,E:\RW\SGD\FRM\U_FrmPrincipal.dfm=C:\Users\Will\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/06/22 19:05:13.000.646,E:\RW\SGD\SGD.dproj=C:\Users\Will\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2015/06/22 20:00:04.000.966,E:\RW\SGD\Unit1.dfm=E:\RW\SGD\DTM\U_DtmDadosUsuario.dfm</Transaction>
+    <Transaction>2015/06/22 20:19:08.000.411,E:\RW\SGD\Unit1.pas=E:\RW\SGD\CLASSES\U_TCombustivel.pas</Transaction>
+    <Transaction>2015/06/23 22:01:21.000.284,E:\RW\SGD\Unit1.pas=E:\RW\SGD\FRM\U_FrmCadastroPadrao.pas</Transaction>
+    <Transaction>2015/06/23 22:01:21.000.284,E:\RW\SGD\Unit1.dfm=E:\RW\SGD\FRM\U_FrmCadastroPadrao.dfm</Transaction>
+    <Transaction>2015/06/23 22:17:37.000.025,E:\RW\SGD\Unit1.dfm=E:\RW\SGD\FRM\U_FrmCadastroCombustivel.dfm</Transaction>
+    <Transaction>2015/06/23 22:17:37.000.025,E:\RW\SGD\Unit1.pas=E:\RW\SGD\FRM\U_FrmCadastroCombustivel.pas</Transaction>
+    <Transaction>2015/06/23 22:18:06.000.980,E:\RW\SGD\Unit1.pas=E:\RW\SGD\DTM\U_DtmDadosCombustivel.pas</Transaction>
+    <Transaction>2015/06/23 22:18:06.000.980,E:\RW\SGD\Unit1.dfm=E:\RW\SGD\DTM\U_DtmDadosCombustivel.dfm</Transaction>
+    <Transaction>2015/06/24 21:49:26.000.303,E:\RW\SGD\Unit1.pas=E:\RW\SGD\CLASSES\U_TCodDesc.pas</Transaction>
+    <Transaction>2015/06/25 13:15:14.000.947,E:\RW\SGD\DTM\U_DtmDadosServico.dfm=E:\RW\SGD\Unit1.dfm</Transaction>
+    <Transaction>2015/06/26 22:34:26.000.633,E:\RW\SGD\Unit1.pas=E:\RW\SGD\FRM\U_FrmSelecaoPadrao.pas</Transaction>
+    <Transaction>2015/06/26 22:34:26.000.633,E:\RW\SGD\Unit1.dfm=E:\RW\SGD\FRM\U_FrmSelecaoPadrao.dfm</Transaction>
+    <Transaction>2015/07/04 02:47:29.000.345,E:\RW\SGD\Unit1.pas=E:\RW\SGD\FRM\U_FrmHistoricoProcesso.pas</Transaction>
+    <Transaction>2015/07/04 02:47:29.000.345,E:\RW\SGD\Unit1.dfm=E:\RW\SGD\FRM\U_FrmHistoricoProcesso.dfm</Transaction>
+    <Transaction>2015/07/04 02:51:11.000.836,E:\RW\SGD\Unit1.dfm=E:\RW\SGD\DTM\U_DtmDadosHistoricoProcesso.dfm</Transaction>
+    <Transaction>2015/07/04 02:51:11.000.836,E:\RW\SGD\Unit1.pas=E:\RW\SGD\DTM\U_DtmDadosHistoricoProcesso.pas</Transaction>
+  </Transactions>
+</BorlandProject>
